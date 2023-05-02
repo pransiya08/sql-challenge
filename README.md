@@ -1,1 +1,1 @@
-# sql-challenge
+This SQL challenge allows data analysis for the research project about a company's employees from a certain period of time. This includes a designed table schema that allows CSV files to be imported into the SQL database. There is also another table schema that have several SQL queries that will provide data analysis for the research project that provides list of the employees and their personal and hiring information, their departments, and other details. The data are enigeered to answer several speific queries as required by the research project. 
